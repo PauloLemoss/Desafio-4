@@ -1,0 +1,25 @@
+.Produtos-moda{
+    background-color: #bb86fc;
+}
+
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+.Produto-casa{
+    background-color: #00C4B4;
+    
+
+}
+
+.Fonte-Cor-Background{
+    background-color: #424250;
+    font-size: 32px;
+    color: white;
+}
+
+.Fonte{
+    font-size: 32px;
+}
